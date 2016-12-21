@@ -1,0 +1,82 @@
+1 N http://google.com
+2 N https://ou.edu
+2 X dhgfggdsf/cbhdbhjd
+2 Y
+3 N https://hr.ou.edu
+2 N https://google2
+2 N https://google3
+2 N https://google4
+1 C http://www.walmart.com/1
+1 P
+4 N https://ou.edu/1
+5 N https://ou.edu/5-1
+5 N https://ou.edu/5-2
+6 N https://www.youtube.com/watch?v=GSR7A6qmDd4
+6 N https://mail.google.com/mail/u/0/
+7 R
+7 B
+7 F
+7 P
+7 N http://www.efile.com/tax-service/support/default
+7 N https://exchange.ou.edu/owa/
+3 N https://exchange.ou.edu/
+3 F
+3 P
+2 M 4
+2 P
+3 P
+4 P
+5 C http://www.walmart.com/
+5 P
+3 R
+3 P
+8 N https://sjobs.brassring.com/
+8 N https://portal.adp.com/public/logout.htm
+8 N http://www.timeanddate.com/date/duration.html
+8 N https://www.amazon.com/gp/buy/
+8 C http://www.walmart.com/
+8 P
+3 M 8
+9 F
+9 P
+9 N http://www.allcheapfares.com/
+9 N http://www.walmart.com/
+9 P
+4 C http://www.walmart.com/
+10 N http://www.bestbuy.com/
+10 N http://tjmaxx.tjx.com/store/index.jsp
+10 N http://international.syr.edu/
+10 P
+8 M 10
+11 N http://google.com
+10 R
+10 F
+10 P
+9 M 6
+10 C http://www.walmart.com/10
+12 N https://ou.edu
+13 N https://hr.ou.edu
+13 P
+13 B
+13 F
+13 P
+12 R
+2 C http://www.walmart.com/2
+12 N https://google2
+12 N https://google3
+12 N https://google4
+12 P
+12 B
+12 F
+12 M 4
+7 C http://www.walmart.com/7
+13 N https://ou.edu/1
+13 N https://ou.edu/3
+13 P
+13 B
+13 P
+13 B
+13 B
+13 B
+13 F
+13 M 9
