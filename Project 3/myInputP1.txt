@@ -1,0 +1,26 @@
+Operating Systems, 5 1200 1800 300 4999 5000
+Compiler construction, 3 30 1000 80
+Database Management systems, 3 20 10 40 90
+Java programs for beginners, 2 41 31
+Statistics introduction, 3 88 75 26
+Algorithms analysis, 1 51
+Composition and Communication U, 2 56 79676 
+Calculus one, 3 456 7688 122212121 
+Calculus two, 4 222 766767 888 443333 
+The Computer Science Profession, 6 23323 55665 111 44445 2333
+Introduction to Computer Programming, 2 4343 445454  
+Introduction to Program Design, 7 121221 333 5511 2112 4599 1215 5656
+Abstraction and Problem Solving, 4 2009 8 65 6 
+Discrete Mathematics, 3 12 4 7
+General University Physics, 5 3 5 6 3 1 
+General University Physics Laboratory, 1 4359549949
+Introduction to Software Engineering, 1 33 
+Design of Logic Circuits, 2 4 5656
+Calculus III, 5 22334 34334 44444 444545 1122121
+General University Physics, 2 343 7676  
+General University Physics Laboratory, 1 23 454 
+Composition and Communication II, 3 43343 445545 333332
+Senior Design Project, 1 23456 
+Computer Science Elective, 2 88765 213098
+Technical Electives, 3 765 1135 2345678 
+Elective, 4 456 6676 3343 434
